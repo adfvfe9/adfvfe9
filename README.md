@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=150&section=header" />
   
 # 공은성입니다.
 
