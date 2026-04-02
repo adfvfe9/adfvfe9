@@ -1,22 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f7fd5&height=200&text=hello&animation=scaleIn&fontColor=fdfdfd&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1,11,12&height=220&section=header&text=Hello%20World!&fontSize=56&fontColor=fafafa&animation=fadeIn" />
+</div>
 
 
-![adfvfe9's GitHub stats](https://github-readme-stats.vercel.app/api?username=adfvfe9&showicons=true&theme=tokyonight)
+<h2 align="center">
+  Welcome to 
+  <img src="https://img.shields.io/badge/adfvfe9-skyblue?style=flat&logo=github&logoColor=white"/>
+  's page
+</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adfvfe9&layout=compact&theme=tokyonight)
+---
 
-# 🔥tech🔥
-<img src="https://img.shields.io/badge/JAVA-d09638?style=for-the-badge&logo=coffeescript&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/C-8a1fa2?style=for-the-badge&logo=c&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Notion-eae6e0?style=for-the-badge&logo=notion&logoColor=000000"/>  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-fcdcb3?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
+### 🛠 Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-e08f00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-ed8600?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-# 🔗links🔗
-<a href="https://github.com/adfvfe9" target="blank">
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-<a href="https://velog.io/@bedulge/posts" target="blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-<a href="https://www.notion.so/bedulge-1e0870a3292e80f5a6ede45123cbe5a4" target="blank">
-  <img src="https://img.shields.io/badge/Notion-eae6e0?style=for-the-badge&logo=notion&logoColor=000000"/>
+
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=adfvfe9&show_icons=true&theme=tokyonight" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adfvfe9&layout=compact&langs_count=6&theme=tokyonight" height="170"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+---
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/adfvfe9"/>
 </a>
 </div>
