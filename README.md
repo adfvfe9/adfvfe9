@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=1,11,12&height=220&section=header&text=Hello%20World!&fontSize=56&fontColor=fafafa&animation=fadeIn" />
-</div>
-
-
-<h2 align="center">
-  Welcome to 
-  <img src="https://img.shields.io/badge/adfvfe9-skyblue?style=flat&logo=github&logoColor=white"/>
-  's page
-</h2>
-
----
-
 ### 🛠 Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e08f00?style=for-the-badge&logo=java&logoColor=white"/>
